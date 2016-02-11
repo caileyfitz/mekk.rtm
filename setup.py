@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#   -*- coding: utf-8 -*-
 # (c) 2010, Marcin Kasperski
 
 from setuptools import setup, find_packages
